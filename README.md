@@ -33,3 +33,47 @@ ma john dataset, object recognition, neural network, application
 
 Label tool 為
 https://github.com/tzutalin/labelImg
+
+Label Class
+1   一萬
+2   二萬
+3   三萬
+4   四萬
+5   五萬
+6   六萬
+7   七萬
+8   八萬
+9   九萬
+10  一筒
+11  二筒
+12  三筒
+13  四筒
+14  五筒
+15  六筒
+16  七筒
+17  八筒
+18  九筒
+19  一條
+20  二條
+21  三條
+22  四條
+23  五條
+24  六條
+25  七條
+26  八條
+27  九條
+28  東風
+29  南風
+30  西風
+31  北風
+32  紅中
+33  青發
+34  白板
+35  春1
+36  夏2
+37  秋3
+38  冬4
+39  梅1
+40  蘭2
+41  竹3
+42  菊4
