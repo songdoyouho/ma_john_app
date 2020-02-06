@@ -129,5 +129,6 @@ Label Class
 1. 在 data 資料夾下的 predefined_classes.txt 需要修改為自己的 class
 2. 在 libs 資料下的 yolo_io.py BndBox2YoloLine 裡，回傳 int(xmin), int(ymin), int(xmax), int(ymax)
 
+方便 training
 
 
