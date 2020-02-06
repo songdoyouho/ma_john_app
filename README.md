@@ -35,6 +35,7 @@ Label tool 為
 https://github.com/tzutalin/labelImg
 
 Label Class
+
 1   一萬
 
 2   二萬
