@@ -119,3 +119,15 @@ Label Class
 41  菊3
 
 42  竹4
+
+# 20200206 進度
+測試 label tool
+
+注意拍攝時須固定方向為橫向拍攝
+
+修改兩處 label tool 的程式碼
+1. 在 data 資料夾下的 predefined_classes.txt 需要修改為自己的 class
+2. 在 libs 資料下的 yolo_io.py BndBox2YoloLine 裡，回傳 int(xmin), int(ymin), int(xmax), int(ymax)
+
+
+
